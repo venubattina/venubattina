@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @venubattina
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Venugopal Reddy Battena 👋
+### Senior System Engineer – Unix | Infrastructure & Platform Engineering
 
-<!---
-venubattina/venubattina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Senior System Engineer at **London Stock Exchange Group (LSEG)** with deep expertise in enterprise Linux administration (RHEL, CentOS), mission-critical financial systems infrastructure, VMware virtualization, and high-availability datacenter operations. Bridging production reliability and systems engineering with modern data pipelines, automation, and applied GenAI workflows.
